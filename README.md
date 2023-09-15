@@ -1,4 +1,3 @@
-# handwashing
 <img src="wash.png" width="600">
 🌟👐 Explore the life-saving impact of handwashing, inspired by the pioneering work of Dr. Ignaz Semmelweis in 1847! 💧🏥
 
